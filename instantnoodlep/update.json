@@ -4,7 +4,7 @@
       "datetime": 1660153547,
       "filename": "test.zip",
       "id": "testfiledropbox",
-      "summary": "Dropbox",
+      "summary": "Dropbox placeholder",
       "romtype": "unofficial",
       "size": 11278270,
       "url": "https://dl.dropboxusercontent.com/s/812keukq49y63pw/test.zip?dl=0",
@@ -15,6 +15,7 @@
       "filename": "test.zip",
       "id": "testfileonedrive",
       "romtype": "unofficial",
+      "summary": "OneDrive placeholder"
       "size": 11278270,
       "url": "https://onedrive.live.com/download?cid=E7149A39B4D85345&resid=E7149A39B4D85345%212106&authkey=AGetgZVGw5Yc9Ak",
       "version": "19.1"
