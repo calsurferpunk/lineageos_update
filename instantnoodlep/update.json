@@ -1,23 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1660153547,
-      "filename": "test.zip",
-      "id": "testfiledropbox",
-      "summary": "Dropbox placeholder",
+      "datetime": 1661871763,
+      "filename": "lineage-19.1-20220828-nightly-instantnoodlep-signed.zip",
+      "id": "official083022",
+      "summary": "Switch to official",
       "romtype": "unofficial",
-      "size": 11278270,
-      "url": "https://dl.dropboxusercontent.com/s/812keukq49y63pw/test.zip?dl=0",
-      "version": "19.1"
-    },
-    {
-      "datetime": 1660153547,
-      "filename": "test.zip",
-      "id": "testfileonedrive",
-      "romtype": "unofficial",
-      "summary": "OneDrive placeholder",
-      "size": 11278270,
-      "url": "https://onedrive.live.com/download?cid=E7149A39B4D85345&resid=E7149A39B4D85345%212106&authkey=AGetgZVGw5Yc9Ak",
+      "size": 1022917194,
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodlep/20220828/lineage-19.1-20220828-nightly-instantnoodlep-signed.zip",
       "version": "19.1"
     }
   ]
