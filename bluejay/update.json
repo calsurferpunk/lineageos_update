@@ -1,0 +1,23 @@
+{
+  "response": [
+    {
+      "datetime": 1674759617,
+      "filename": "test.zip",
+      "id": "dropboxplaceholder",
+      "romtype": "unofficial",
+      "size": 11278270,
+      "url": "https://dl.dropboxusercontent.com/s/812keukq49y63pw/test.zip?dl=0",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1674759617,
+      "filename": "test.zip",
+      "id": "onedriveplaceholder",
+      "summary": "OneDrive placeholder",
+      "romtype": "unofficial",
+      "size": 11278270,
+      "url": "https://onedrive.live.com/download?cid=E7149A39B4D85345&resid=E7149A39B4D85345%212106&authkey=AGetgZVGw5Yc9Ak",
+      "version": "20.0"
+    }
+  ]
+}
